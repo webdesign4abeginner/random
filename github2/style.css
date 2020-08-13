@@ -1,0 +1,21 @@
+h1{
+	color:red;
+	background-color:beige;
+}
+p{
+	color:blue;
+	font-size: 120%;
+}
+h2{
+	color:green;
+}
+ul{
+	color:brown;
+	background-color: pink;
+}
+nav{
+	color:red;
+	font-size: 170%;
+	font-family: monospace;
+}
+
